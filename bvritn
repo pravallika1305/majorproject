@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html> 
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="easy html web page,easy html program,easy html code,easy html website example,easy html web pages using html,easy html web page design,basic html web page code,basic html web page examples with source code,easy html web page creater,easy html project,easy html website code">
+  <meta name="keywords" content="easy html web page,easy html program,easy html code,easy html website example,easy html web pages using html,easy html web page design,basic html web page code,simple html college website,basic html web page examples with source code,easy html web page creater,easy html project,easy html website code">
+  <meta name="author" content="CHAITANYA BHARATHI INSTITUTE OF TECHNOLOGY">
+  <meta name="language" content="EN">
+  <meta name="distribution" content="global">
+  <meta name="rating" content="general">
+  <meta name="robots" content="index, follow">
+  <meta name="creationdate" content="Thursday, 07 Jan 2021">
+  <meta http-equiv="refresh" content="300">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<style>
+{
+    box-sizing: border-box;
+}
+.bg-image{
+    background-image: url(bvrithn.jpg);
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+    position: relative;   
+}
+.filter-blur{
+    background: rgba(240,227,227,0.5);
+    backdrop-filter: blur(20px);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: 1;
+}
+.bg-text{
+    background-color: reg(0,0,0);
+    background-color: reg(0,0,0,0.4);
+    color: white;
+    font-weight: bold;
+    border: 3px solid #f1f1f1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%);
+    z-index: 2;
+    width: 80%;
+    padding: 20px;
+    text-align: center;
+}
+</style> 
+<body>
+    <div class="bg-image"></div>
+</body>
+
+
+<html>
+<body>
+<div style ="    background: linear-gradient(to top, rgba(250, 248, 248, 0.705)50%,rgba(249, 247, 247, 0.722)50%), url(data:image/jpeg;base64,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)";
+color:rgb(10, 9, 9);padding:20px;"> 
+  <center><h1><span style="color:rgb(3, 3, 3)">B.V.Raju Institute Of Technology</h1></center>
+<p style="font-size:22px;"><b>Phone :</b>
+<b>040 – 40334848,, 040 –40334818 - Call time (9:00 AM - 5:50 PM)</p></b>
+<p style="font-size:22px;"><b>Email :</b> 
+<b>	info@bvrit.ac.in<sup></p></sup></b>
+</center></center>
+<br>
+
+
+      <!DOCTYPE html>
+<html>
+<body>
+<p id="demo"></p>
+
+<script>
+var d = new Date();
+document.getElementById("demo").innerHTML = d;
+</script>
+
+<!DOCTYPE html>
+<html>
+<body>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a, .dropbtn {
+    display: inline-block;
+   
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+    background-color: ;
+}
+
+li.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(45, 174, 222, 0.888);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: rgb(238, 42, 42);
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.link{
+    color:rgb(81, 45, 211):
+}
+</style>
+</head>
+<body>
+
+
+</body>
+</html>
+
+<div class="background-image: repeating-linear-gradient(135deg, rgba(211, 216, 221, 0.944) 0px, rgba(234, 238, 238, 0.836) 0px,transparent 0px, transparent 1px,rgba(221, 224, 227, 0.944) 1px, rgba(224, 230, 236, 0.944) 4px,transparent 4px, transparent 5px,rgba(237, 245, 245, 0.895) 5px, rgba(229, 234, 237, 0.96) 10px),repeating-linear-gradient(45deg, rgba(239, 244, 245, 0.988) 0px, rgb(229, 235, 237) 0px,transparent 0px, transparent 1px,rgb(240, 247, 249) 1px, rgb(239, 242, 243) 4px,transparent 4px, transparent 5px,rgb(246, 247, 248) 5px, rgba(239, 244, 247, 0.916) 10px),repeating-linear-gradient(0deg, rgba(249, 245, 245, 0.938) 0px, rgba(249, 249, 249, 0.955) 1px, rgba(241, 240, 240, 0.911) 4px,transparent 4px, transparent 5px,rgba(243, 236, 236, 0.971) 5px, rgba(245, 244, 244, 0.944) 10px),repeating-linear-gradient(90deg, rgba(244, 241, 241, 0.933) 0px, rgba(252, 248, 248, 0.944) 0px,transparent 0px, transparent 1px,rgba(252, 248, 248, 0.812) 1px, rgba(251, 249, 249, 0.862) 4px,transparent 4px, transparent 5px,rgba(245, 243, 243, 0.927) 5px, rgba(245, 238, 238, 0.862) 10px),linear-gradient(90deg, rgb(245, 244, 244),rgb(245, 244, 244));">
+<h1><p style="color:rgb(39, 9, 158);">CONTACT US</p></h1>
+<h2>Address : </h2>
+<h2>BVRITN</h2>
+<h2>Vishnupur, Narsapur,Medak Dist, Narsapur, Medak, 502313</h2>
+<h2>Website : <a href="http://www.bvrit.ac.in" class="link"> http://www.bvrit.ac.in</a></h2></div>
+
+<div class="col-xs-6 col-md-3">
+            <center><u><h1>Different Branches</h1></u></center>
+            <ul class="footer-links">
+            
+              <h2> Computer Science & Engineering</h2><br></a>
+              <h2> Electronics and Communication Engineering</h2><br></a></li>
+              <h2> Mechanical Engineering</h2><br></a></li>
+              <h2> Civil Engineering</h2></a><br>
+              <h2> Information Technology</h2></a></li><br>
+              <h2> Electrical and Electronics Engineering</h2></a></li><br> 
+              <h2> Artificial Intelligence and Machine Learning </h2></a></li><br>
+              <h2> Data Science</h2></a></li><br>
+              <h2> Chemical Engineering</h2></a></li><br> 
+              <h2> Pharmaceutical Engineering </h2></a></li><br>
+              <h2> Biomedical Engineering </h2></a></li><br>
+             
+            </ul>
+          </div>
+<div style="background-image: repeating-linear-gradient(236deg, white0px, rgba(85,122,149) 0px,transparent 0px, transparent 1px,rgba(85,122,149) 1px, rgb(249, 245, 245) 4px,transparent 4px, transparent 5px,rgb(239, 238, 238) 5px, rgb(243, 243, 243) 8px),repeating-linear-gradient(119deg, rgb(250, 250, 250) 4px,transparent 4px, transparent 5px,rgb(247, 246, 246) 5px, rgb(246, 242, 242) 8px),linear-gradient(90deg, rgb(245, 245, 245) 243),rgb(246, 244, 244));">
+
+    <br>
+<h1><center><u><p style="color:rgb(9, 9, 9);">ABOUT BVRITN</p></u></center></h1>
+<br><h2><center>B V Raju Institute of Technology (BVRIT) was established by the eminent philanthropist (Late) Padmabhushan Dr. B.V. Raju under the aegis of Sri Vishnu Educational Society (SVES) in the year 1997. BVRIT was granted UGC - Autonomous Status from the year 2014. The Institute is also duly approved by the AICTE and the Government of Telangana State and is affiliated to JNTU, HYDERABAD. BVRIT is accredited by both NBA and NAAC, New Delhi.</center></h2><br>
+<h2>
+
+    <br>
+<tbody>
+<tr>
+<u><h1><td><b>DIFFERENTIATORS :</b></td></h1></u>
+<h2><td><b>City centre @hyderabad<br>
+    Centennial Health<br>
+    Entrepreneurship Development Cell(EDC)<br>
+    (GSAC)Graduate Study Abroad Centre<br>
+    IBM Centre of Excellence<br>
+    Particle Technology Lab<br>
+    Rular Women Technology Park<br>
+    Unnat Bharat Abhiyan<br>
+    AICTE Idea Lab<br>
+    </b><br></td></h2></tr>
+<u><h1><td><b>CUT OFF :</b></td><br></h1></u>
+
+
+<img src="https://lh3.googleusercontent.com/-__RV9dVm8Ao/YSZjZ88_peI/AAAAAAAAA30/8Nil6VY9obcIja_EenIFHn5hgOuNTjaGQCLcBGAsYHQ/s16000/image.png" alt="" height="500" width = "800"><br>
+
+<tr>
+<u><h1><td><b>CLUBS :</b></td><br></h1></u>
+<h2><td><b>Boat club</b></td></h2>
+
+</tr>
+<tr>
+    <u><h1><td><b>Extra Circular Activities :</b></td><br></h1></u>
+    <h2><td><b>Sports<br>Gym</b></td></h2>
+</tr>
+<tr>
+<u><h1><td><b>Fees :</b></td><br></h1></u>
+<h2><td><b>ANNUAL FEE – 1,20,000<br>
+          AVERAGE PACKAGE – 3.47 LPA<br>
+          HIGHEST PACKAGE – 11.5 LPA<br>
+    </b><br></td></h2>
+</tr>
+<tr>
+
+<tr>
+<u><h1><td><b>PLACEMENTS :</b></td><br></h1></u>
+<img src="https://www.met.edu/uploadfile/images/corporate_logo_management_all_list.jpg" alt="" height="500" width = "800"><br>
+<h2><td><b>The BVRIT Narsapur has been creating new records year by year. With more than 175 companies visited BVRIT Narsapur and more than 2000+ placements and Unique Offers are 900+ for the academic year 2021-22, it is the highest among the peer group of colleges. This is the first time that BVRIT Narsapur has crossed 2000+ placements. The highest offer is a remarkable Rs.44,00,000 in Amazon and many students got offers higher than Rs.20 Lakhs. A record number offers about 400+ students got higher than Rs. 6 Lakhs. With this, BVRIT Narsapur becomes one of the leading colleges in the state in terms of the offers with higher salaries. We are striving towards all BVRIT Narsapur students to be placed irrespective of branch they are studying. </b></td></h2>
+
+</tr>
+<tr>
+<u><h1><tr><b>FACILITIES :</b></td><br></tr></h1></u>
+<h2><td><b>Transport</b>
+<b>Banks Facilities
+   <br>
+   Medical/Hospital
+   <br>
+   Hostel</b>
+   <br>
+   Sports&REC
+   <br>
+   Library
+   <br>
+   Auditorium
+   </b></td><br></h2>
+</tr>
