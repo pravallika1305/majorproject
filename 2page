@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html> 
+
+<style>
+body {
+  background-color: rgb(24, 2, 71);
+}
+</style> 
+
+<br>
+<html>
+<body>
+<div style="background-color:rgb(177, 208, 237);color:rgb(6, 6, 10);padding:20px;"> 
+  <h1><span style="color:rgb(11, 11, 12)"><center><p><Font face="italic">What is engineering?</Font></p></center></h1>  
+<br>
+
+
+      <!DOCTYPE html>
+<html>
+<body>
+<p id="demo"></p>
+
+<script>
+var d = new Date();
+document.getElementById("demo").innerHTML = d;
+</script>
+
+<!DOCTYPE html>
+<html>
+<body>
+</body>
+</html>
+<center><img src="data:image/jpeg;base64,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" alt=""/></center>
+
+
+ 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:cadetblue;
+}
+
+li {
+    float: left;
+}
+
+li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+    background-color: ;
+}
+
+li.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+</style>
+</head>
+<body>
+
+
+</body>
+</html>
+
+
+
+
+
+<tr>
+
+<td><b><br><h3><center><p><font face="cursive">Engineering is our identity, and we will be recognized as an Engineer throughout our lives. <br>But, how many of us really know about our profession? If someone asks you, what is engineering or<br> who is an Engineer? What will your answer be? Some might say, engineering is about developing new technologies,<br> others might define an engineer as:
+
+    Solving problems you didn’t know you have in ways you can’t understand.</font></p></center></b></br></td></h3>
+
+
+<center><td><b>Or like this: <br></b></td></center>
+<center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaQA4-2bkXSCgqWoR1VMYYnA9qOZbIhQdBtg&usqp=CAU" alt=""/></center>
+
+
+    <td><b><br><h2><center><p><font face="cursive">Our perception of engineering is confined to the articles, images or catch-phrases<br> that we come across on social networking sites. It’s important that we go beyond <br>this and dig a little deeper.</font></p></center></b></td></br>
+    
+    
+
+        <td><b><br><h3><u><center><p><font face="monospace">Let’s look inside the world engineering and explore some less known facts</font></p></center></h3></b></br></u>
+        </tr>
+        <tr>
+
+            <b><br><center><p><font face="cursive">To begin with, how was the term ‘Engineer’ coined? One might think<br></r> it’s related to the word ‘Engine’ but, it is actually derived from the <br> Latin words, Ingeniare (“to contrive, devise”) and ingenium (“cleverness”).
+            </font></p></center></b></br>
+
+            </tr>
+           <center><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iimtindia.net%2FBlog%2Flist-of-engineering-branches-in-india%2F&psig=AOvVaw1R8w_HM9fBsjGU_IsYYKLv&ust=1670077088702000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNC2kY-Q2_sCFQAAAAAdAAAAABAE.jpg" alt=""/></center>
