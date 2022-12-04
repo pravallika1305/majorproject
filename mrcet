@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html> 
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="easy html web page,easy html program,easy html code,easy html website example,easy html web pages using html,easy html web page design,basic html web page code,basic html web page examples with source code,easy html web page creater,easy html project,easy html website code">
+  <meta name="keywords" content="easy html web page,easy html program,easy html code,easy html website example,easy html web pages using html,easy html web page design,basic html web page code,simple html college website,basic html web page examples with source code,easy html web page creater,easy html project,easy html website code">
+  <meta name="author" content="CHAITANYA BHARATHI INSTITUTE OF TECHNOLOGY">
+  <meta name="language" content="EN">
+  <meta name="distribution" content="global">
+  <meta name="rating" content="general">
+  <meta name="robots" content="index, follow">
+  <meta name="creationdate" content="Thursday, 07 Jan 2021">
+  <meta http-equiv="refresh" content="300">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<style>
+{
+    box-sizing: border-box;
+}
+.bg-image{
+    background-image: url(mrcet.jpg);
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+    position: relative;   
+}
+.filter-blur{
+    background: rgba(240,227,227,0.5);
+    backdrop-filter: blur(20px);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: 1;
+}
+.bg-text{
+    background-color: reg(0,0,0);
+    background-color: reg(0,0,0,0.4);
+    color: white;
+    font-weight: bold;
+    border: 3px solid #f1f1f1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%);
+    z-index: 2;
+    width: 80%;
+    padding: 20px;
+    text-align: center;
+}
+</style> 
+<body>
+    <div class="bg-image"></div>
+</body>
+
+
+<html>
+<body>
+<div style ="    background: linear-gradient(to top, rgba(250, 248, 248, 0.705)50%,rgba(249, 247, 247, 0.722)50%), url(https://i.ytimg.com/vi/u4cKQriy5HI/maxresdefault.jpg)";
+color:rgb(10, 9, 9);padding:20px;"> 
+  <center><h1><span style="color:rgb(3, 3, 3)">Malla Reddy College Of Institute and Technology</h1></center>
+<p style="font-size:22px;"><b>Phone :</b>
+<b>040-64632248, 040 –64634236 - Call time (9:00 AM - 5:50 PM)</p></b>
+<p style="font-size:22px;"><b>Email :</b> 
+<b>	principal@mrce.in<sup></p></sup></b>
+</center></center>
+<br>
+
+
+      <!DOCTYPE html>
+<html>
+<body>
+<p id="demo"></p>
+
+<script>
+var d = new Date();
+document.getElementById("demo").innerHTML = d;
+</script>
+
+<!DOCTYPE html>
+<html>
+<body>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a, .dropbtn {
+    display: inline-block;
+   
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+    background-color: ;
+}
+
+li.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(45, 174, 222, 0.888);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: rgb(238, 42, 42);
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.link{
+    color:rgb(81, 45, 211):
+}
+</style>
+</head>
+<body>
+
+
+</body>
+</html>
+
+<div class="background-image: repeating-linear-gradient(135deg, rgba(211, 216, 221, 0.944) 0px, rgba(234, 238, 238, 0.836) 0px,transparent 0px, transparent 1px,rgba(221, 224, 227, 0.944) 1px, rgba(224, 230, 236, 0.944) 4px,transparent 4px, transparent 5px,rgba(237, 245, 245, 0.895) 5px, rgba(229, 234, 237, 0.96) 10px),repeating-linear-gradient(45deg, rgba(239, 244, 245, 0.988) 0px, rgb(229, 235, 237) 0px,transparent 0px, transparent 1px,rgb(240, 247, 249) 1px, rgb(239, 242, 243) 4px,transparent 4px, transparent 5px,rgb(246, 247, 248) 5px, rgba(239, 244, 247, 0.916) 10px),repeating-linear-gradient(0deg, rgba(249, 245, 245, 0.938) 0px, rgba(249, 249, 249, 0.955) 1px, rgba(241, 240, 240, 0.911) 4px,transparent 4px, transparent 5px,rgba(243, 236, 236, 0.971) 5px, rgba(245, 244, 244, 0.944) 10px),repeating-linear-gradient(90deg, rgba(244, 241, 241, 0.933) 0px, rgba(252, 248, 248, 0.944) 0px,transparent 0px, transparent 1px,rgba(252, 248, 248, 0.812) 1px, rgba(251, 249, 249, 0.862) 4px,transparent 4px, transparent 5px,rgba(245, 243, 243, 0.927) 5px, rgba(245, 238, 238, 0.862) 10px),linear-gradient(90deg, rgb(245, 244, 244),rgb(245, 244, 244));">
+<h1><p style="color:rgb(39, 9, 158);">CONTACT US</p></h1>
+<h2>Address : </h2>
+<h2>MRCET</h2>
+<h2>Post Via Kompally, Maisammaguda, Dulapally, Secunderabad, Telangana 500100</h2>
+<h2>Website : <a href="https://mrcet.com/" class="link">https://mrcet.com/</a></h2></div>
+
+<div class="col-xs-6 col-md-3">
+            <center><u><h1>Different Branches</h1></u></center>
+            <ul class="footer-links">
+            
+              <h2> Computer Science & Engineering</h2><br></a>
+              <h2> Electronics and Communication Engineering</h2><br></a></li>
+              <h2> Mechanical Engineering</h2><br></a></li>
+              <h2> Humanities & Science</h2></a><br>
+              <h2> Information Technology</h2></a></li><br>
+              <h2> Electrical and Electronics Engineering</h2></a></li><br> 
+              <h2> Artificial Intelligence and Machine Learning </h2></a></li><br>
+              <h2> Data Science</h2></a></li><br>
+              <h2> Chemical Engineering</h2></a></li><br> 
+              <h2> Aeronotical Engineering</h2></a></li><br>
+              <h2>  </h2></a></li><br>
+             
+            </ul>
+          </div>
+<div style="background-image: repeating-linear-gradient(236deg, white0px, rgba(85,122,149) 0px,transparent 0px, transparent 1px,rgba(85,122,149) 1px, rgb(249, 245, 245) 4px,transparent 4px, transparent 5px,rgb(239, 238, 238) 5px, rgb(243, 243, 243) 8px),repeating-linear-gradient(119deg, rgb(250, 250, 250) 4px,transparent 4px, transparent 5px,rgb(247, 246, 246) 5px, rgb(246, 242, 242) 8px),linear-gradient(90deg, rgb(245, 245, 245) 243),rgb(246, 244, 244));">
+
+    <br>
+<h1><center><u><p style="color:rgb(9, 9, 9);">ABOUT MRCET</p></u></center></h1>
+<br><h2><center>A constituent college of Malla Reddy Group of Institutions (MRGI), Malla Reddy College of Engineering and Technology Hyderabad (MRCET Hyderabad) was established in 2004. MRCET Hyderabad is located in Hyderabad, Telangana. MRCET Hyderabad has been accredited by the NBA (Tier-1). It has been declared as an autonomous institution by UGC and has been approved by AICTE. MRCET Hyderabad is permanently affiliated to JNTUH and it has been approved by the Government of Telangana.</center></h2><br>
+<h2>
+
+    <br>
+<tbody>
+<tr>
+<u><h1><td><b>CUT OFF :</b></td><br></h1></u>
+
+
+<img src="https://lh3.googleusercontent.com/-dq5vp65iGBM/YSkLWcko0KI/AAAAAAAABEI/VWC52y6ZqwoR0_Tw15LVjHCWFROjOjGMACLcBGAsYHQ/s16000/image.png" alt="" height="500" width = "800"><br>
+
+<tr>
+<u><h1><td><b>CLUBS :</b></td><br></h1></u>
+<h2><td><b></b>. Literary Club<br>
+    •	Cultural Club<br>
+    •	Dance Club<br>
+    •	Recreational Club<br>
+    •	MRCET Hyderabad Aero Club<br>
+    •	Computer Society of India at MRCET Hyderabad<br>
+    •	NSS<br>
+    </b></td></h2>
+
+</tr>
+<tr>
+<u><h1><td><b>Fees :</b></td><br></h1></u>
+<h2><td><b>ANNUAL FEE – 2.80 Lakhs<br>
+    </b><br></td></h2>
+</tr>
+<tr>
+
+<tr>
+<u><h1><td><b>PLACEMENTS :</b></td><br></h1></u>
+<img src="https://www.met.edu/uploadfile/images/corporate_logo_management_all_list.jpg" alt="" height="500" width = "800"><br>
+<h2><td><b>• Logical Reasoning<br>
+    •	Planning and Goal Setting<br>
+    •	Programming Skills<br> 
+    •	Quantitative Aptitude<br>
+    •	Group Discussion<br>
+    •	Interpersonal and Listening Skills<br>
+    •	Personnel Counseling<br>
+    •	Pseudo Coding<br>
+    </b></td></h2>
+
+</tr>
+<tr>
+<u><h1><tr><b>FACILITIES :</b></td><br></tr></h1></u>
+<h2><td><b>Transport<br>
+    Data center<br>
+    Sports&REC<br>
+    Health center<br>
+    Public realations<br>
+    Media center<br>
+    ICT tools<br>
+    Hostel<br>
+   Minority cell<br>
+   PAAC cell<br>
+   ED cell<br>
+   ALUMNI…</b>
+<b>
+    
+   </b></td><br></h2>
+</tr>
